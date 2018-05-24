@@ -5,7 +5,11 @@ multi objective reinforcement learning methods
   - Multi-object problems [video](https://www.youtube.com/watch?v=56JOMkPvoKs)
   - Multi objective decision making [video](https://www.youtube.com/watch?v=_zJ_cbg3TzY)
   - Multi objective optimization [slide](https://www.slideshare.net/SEMEDARSALIM/multi-objective-optimization)
-  
+
+## Multi objective optimizer
+  - Pareto
+  - NSGA-II [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=996017) [code](https://github.com/haris989/NSGA-II)
+
 ## Multi objective Markov Decision Process
 
 ## Multi-obj reinforcement learning
