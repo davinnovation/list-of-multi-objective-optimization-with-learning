@@ -16,3 +16,5 @@ multi objective reinforcement learning methods
   - Multi-criteria Reinforcement Learning [paper](https://sites.ualberta.ca/~szepesva/papers/multi98.ps.pdf)
   - Multi objective deep reinforcement leraning [github](https://github.com/hossam-mossalam/multi-objective-deep-rl) [paper](https://arxiv.org/pdf/1610.02707.pdf)
   - Multi objective deep reinforcement learning framework [paper](https://arxiv.org/ftp/arxiv/papers/1803/1803.02965.pdf)
+  - Multi-objective multiagent credit assignment in reinforcement
+learning and NSGA-II [paper](https://link.springer.com/content/pdf/10.1007%2Fs00500-016-2124-z.pdf)
