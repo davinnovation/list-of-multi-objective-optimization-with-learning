@@ -18,3 +18,6 @@ multi objective reinforcement learning methods
   - Multi objective deep reinforcement learning framework [paper](https://arxiv.org/ftp/arxiv/papers/1803/1803.02965.pdf)
   - Multi-objective multiagent credit assignment in reinforcement
 learning and NSGA-II [paper](https://link.springer.com/content/pdf/10.1007%2Fs00500-016-2124-z.pdf)
+
+## Codes
+  - Optimsitc linear support [github](https://github.com/CarbonGU/Optimistic-Linear-Support)
