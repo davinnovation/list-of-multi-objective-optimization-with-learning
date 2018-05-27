@@ -9,7 +9,7 @@ multi objective reinforcement learning methods
 ## Multi objective optimizer
   - Pareto
   - NSGA-II [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=996017) [code](https://github.com/haris989/NSGA-II)
-
+  - OLS [paper] [ppt](http://roijers.info/pub/vubSep14.pdf)
 ## Multi objective Markov Decision Process
 
 ## Multi-obj reinforcement learning
